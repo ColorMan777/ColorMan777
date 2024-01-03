@@ -1,4 +1,4 @@
-Artist and Open source lover !
+Artist and Open source lover ! 🎨🖌️
 
 My Bio : https://colormanartist.wordpress.com/
 
