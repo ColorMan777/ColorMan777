@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ColorMan777
-- 👀 I’m interested in game creation
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on game jams one day
-- 📫 How to reach me ...
+Artist and Open source lover !
+
+My Bio : https://colormanartist.wordpress.com/
 
 <!---
 ColorMan777/ColorMan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
